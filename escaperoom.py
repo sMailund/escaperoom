@@ -21,7 +21,3 @@ while True:
         print("on")
     else:
         print("no match")
-
-    if val == "stop":
-        print("stop")
-        exit()
